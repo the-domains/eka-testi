@@ -2,6 +2,7 @@ name: Eka testi
 favicon: null
 layout_spectrum: 0.7817116428632289
 typography_spectrum: 0.2602789325173944
+title: Eka title
 cta:
   domain: null
   bucket: null
