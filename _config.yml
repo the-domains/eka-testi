@@ -1,0 +1,28 @@
+name: Eka testi
+favicon: null
+layout_spectrum: 0.7817116428632289
+typography_spectrum: 0.2602789325173944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11642141197808087
+  lightness: 0.21974193421192467
+  saturation: 0.3747564279474318
+  rhythmicContrast: 0.9750906629487872
+purpose: []
